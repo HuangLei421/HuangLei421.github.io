@@ -1,0 +1,78 @@
+body.bg {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-family: 'PT Sans Narrow', Arial, sans-serif;
+}
+
+
+body {
+    color: #fff;
+    font-family: 'PT Sans Narrow', Arial, sans-serif;
+}
+li {
+    padding: 6px;
+    
+    font-size: 15px;
+    color: white;
+}
+div.work_nav {
+    position: absolute;
+    width: 15%;
+    height:70%;
+    left: 10%;
+    top: 20%;
+   
+}
+a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 15px;
+   
+    
+}
+img.woke-picture {
+    margin-right: 10px;
+    vertical-align: middle;
+    width:240px;
+    height:400px;
+}
+
+img.woke-picture2 {
+    margin-right: 10px;
+    vertical-align: middle;
+    width:500px;
+    height:500px;
+}
+
+img.woke-picture3 {
+    margin-right: 10px;
+    vertical-align: bottom;
+    width:400px;
+    height:800px;
+}
+img.woke-picture4 {
+    margin-right: 10px;
+    vertical-align: bottom;
+    width:800px;
+    height:200px;
+}
+img.woke-picture5 {
+    margin-right: 10px;
+    vertical-align: bottom;
+    width:800px;
+    height:500px;
+}
+
+p{
+    font-family:Microsoft yahei;
+    font-weight:normal;
+    font-size:18px;
+    line-height:28px
+}
